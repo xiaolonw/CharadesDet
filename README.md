@@ -1,4 +1,4 @@
-# Charades Object Detection Dataset
+# Charades Object Detection Dataset (ICCV 2017)
 
 ## Citation
 If you use our dataset in your research, please use the following BibTeX entry.
