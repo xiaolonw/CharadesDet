@@ -13,7 +13,7 @@ If you use our dataset in your research, please use the following BibTeX entry.
 
 We label all the videos in the Charades Validation video set, which can be downloaded from [`here`](http://allenai.org/plato/charades/).
 
-The annotation is Annotations.tar.gz in this repo.
+The annotation is [`Annotations.tar.gz`](Annotations.tar.gz) in this repo.
 
 There are 1812 videos labeled in total and 8 boxes per frame in average.
 We label one frame every second, and we extract the frames in the original frame rate of the videos with:
