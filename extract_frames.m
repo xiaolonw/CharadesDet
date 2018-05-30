@@ -4,8 +4,8 @@ clc;
 
 % read video
 addpath('/Users/yuanyuan/projects/mmread/');
-viddataset = '/Users/yuanyuan/projects/CharadesDataset/Charades_v1_480/';
-imgdataset = '/Volumes/yyMacRed/projects/detection_dataset/Charades/Charades_v1_480_images/';
+viddataset = '/USERPATH/Charades_v1_480/';
+imgdataset = '/USERPATH/Charades_v1_480_images/';
 if ~exist(imgdataset,'dir')
     mkdir(imgdataset);
 end
@@ -32,4 +32,3 @@ for i = 1:9848
     i
 
 end
-
